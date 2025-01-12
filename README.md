@@ -1,5 +1,6 @@
 # Excel-Project-FNP-Sales-Analysis-Project
 
+![FNP Sales Analysis Project](https://github.com/user-attachments/assets/cf3a600e-204f-497f-ae3c-8b0b4c6cd889)
 
 # Ferns and Petals Sales Analysis
 
